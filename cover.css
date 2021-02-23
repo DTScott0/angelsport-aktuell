@@ -1,0 +1,128 @@
+/* stylelint-disable property-no-vendor-prefix */
+
+/*
+ * Globals
+ */
+
+/* Img */
+#intro{
+  height: 100%;
+  
+}
+#intro{
+  
+  background: url("file:///C:/Users/Daniel.DESKTOP-KMC65AN/Desktop/dein-angelziel-heute/Images/Fish_Images_Background_Iphone_V1.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.navbar {
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+button {
+    font-size: 2.0em;
+    margin-top: 25px;
+    padding:0.3em 2em;
+    border-radius: 60px;
+    background: white;
+    color: #0085ca;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1s ease-out;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    
+  }
+  
+  button:hover {
+    background: #0079ca;
+    color: white;
+  }
+  
+  button:focus,
+  button:active {
+    outline: none;
+  }
+  
+  button:active {
+    background: #0085ca;
+  }
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  color: #fff;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+#myRandomDiv {
+  font-size: 1.3em;
+}
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+  
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Links */
+a:link {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+
+}
+
+/* Links */
+
+/* Padding for spacing */
+.inner {
+  padding: 30px;
+}
+
+/*
+ * Footer
+ */
