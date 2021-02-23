@@ -10,6 +10,14 @@ var randomStrings = [
 
     "Zeck Fishing <a href='https://zeck-fishing-podcast.podigee.io' target='_blank'>Podcast</a>",
 
+    "Forellenangeln für Einsteiger<a href='https://www.youtube.com/watch?v=uKkUdZzYuGk' target='_blank'> Youtube tutorial</a>",
+
+    "Wie baut man eine Angelrute zusammen <a href='https://www.youtube.com/watch?v=LoPN8wckVUo' target='_blank'> Youtube tutorial</a>",
+
+    "Forellenangeln mit Sbirolino <a href='https://www.youtube.com/watch?v=Wk06_3Sp7_o' target='_blank'> Trout Master Youtube tutorial</a>",
+
+    "Gewässerportal in Deutschland. <a href='https://www.monsterfisch.de/' target='_blank'> Monsterfisch</a>",
+    
 
     /*"Hecht 1,00m +",
     "Barsch mit ASP spinner",
