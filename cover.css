@@ -1,17 +1,11 @@
-/* stylelint-disable property-no-vendor-prefix */
 
-/*
- * Globals
- */
-
-/* Img */
 #intro{
-  height: 100%;
+  height: 200%;
   
 }
 #intro{
   
-  background: url("https://raw.githubusercontent.com/DTScott0/angelsport-aktuell/main/Fish_Images_Background_Iphone_V1.png") no-repeat center center fixed;
+  background: url("/Users/Dan1/Desktop/dein-angelziel-heute/Images/Fish_Images_Background_Iphone_V1.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,12 +15,12 @@
 
 @media (min-width: 769px) {
   #intro{
-    background: url("https://raw.githubusercontent.com/DTScott0/angelsport-aktuell/main/Fish_Images_Background_Web_Large_V1.png") no-repeat center center fixed;
+    background: url("/Users/Dan1/Desktop/dein-angelziel-heute/Images/Fish_Images_Background_Web_Large_V1.png") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 100%;
+    height: 200%;
   }
 }
 
@@ -60,6 +54,7 @@ button {
   button:hover {
     background: #0079ca;
     color: white;
+  
   }
   
   button:focus,
@@ -110,24 +105,34 @@ body {
 }
 
 /* Links */
-a:link {
-  text-decoration: underline;
-}
 
-a:visited {
-  text-decoration: underline;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a:active {
-  text-decoration: underline;
-
-}
 
 /* Links */
+
+.links {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid white;
+  border-width: 2px;
+  width: 290px;
+  max-width: 60vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  transition: color 0.5s;
+}
+
+a.links:hover {
+  color: #0085ca;
+  background: #fff;
+}
 
 /* Padding for spacing */
 .inner {
