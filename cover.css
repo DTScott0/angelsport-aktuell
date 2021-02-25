@@ -5,7 +5,7 @@
 }
 #intro{
   
-  background: url("/Users/Dan1/Desktop/dein-angelziel-heute/Images/Fish_Images_Background_Iphone_V1.png") no-repeat center center fixed;
+  background: url("https://github.com/DTScott0/angelsport-aktuell/blob/main/Fish_Images_Background_Iphone_V1.png?raw=true") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -15,7 +15,7 @@
 
 @media (min-width: 769px) {
   #intro{
-    background: url("/Users/Dan1/Desktop/dein-angelziel-heute/Images/Fish_Images_Background_Web_Large_V1.png") no-repeat center center fixed;
+    background: url("https://github.com/DTScott0/angelsport-aktuell/blob/main/Fish_Images_Background_Web_Large_V1.png?raw=true") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
