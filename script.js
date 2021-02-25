@@ -18,23 +18,9 @@ var randomStrings = [
 
     "Gewässerportal in Deutschland. <a href='https://www.monsterfisch.de/' target='_blank'> Monsterfisch</a>",
     
-
-    /*"Hecht 1,00m +",
-    "Barsch mit ASP spinner",
-    "Zander mit Dropshot",
-    "Nichts, bleib zu Hause",
-    "Aal Angeln (Du Glückspilz)",
-    "Lachs, viel Glück!",
-    "Organisiere dein Tackle",
-    "Urlaub in <a href='https://www.visitnorway.com/things-to-do/outdoor-activities/fishing/' target='_blank'>Norwegen</a>",
-    "Neues Tackle <a href='https://www.angelsport.de' target='_blank'>kaufen</a>",
-    "Karpfen Angeln",
-    "Animal crossing Angeln?",
-    "Fliegenfischen lernen",
-    "Wels angeln",
-    "Mal wieder nix gefangen",
     "Geblankt",
-    "Familie Angelausflug",*/
+
+    "Nichts, bleib zu Hause",
   ];
   
   var randomDiv = document.getElementById("myRandomDiv");
